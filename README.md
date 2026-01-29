@@ -2,7 +2,7 @@
 
 Eleve Ecommerce is a modern, responsive ecommerce web application built using **React, TypeScript, Vite, Tailwind CSS, and ShadCN UI**.
 
-This project was created as part of my learning journey to strengthen my skills in frontend development, UI building, and modern web technologies.
+This project was created as part of my learning journey to improve my frontend development and UI building skills.
 
 ---
 
