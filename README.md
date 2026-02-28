@@ -20,12 +20,12 @@ This project was created as part of my learning journey to improve my frontend d
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** React.js  
-- **Language:** TypeScript  
-- **Bundler:** Vite  
-- **Styling:** Tailwind CSS  
-- **UI Library:** ShadCN UI  
-- **Tools:** Git, GitHub, VS Code  
+- **Frontend Framework:React.js  
+- **Language: TypeScript  
+- **Bundler: Vite  
+- **Styling: Tailwind CSS  
+- **UI Library: ShadCN UI  
+- **Tools: Git, GitHub, VS Code  
 
 ---
 
