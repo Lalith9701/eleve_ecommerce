@@ -6,7 +6,7 @@
 
 @layer base {
   :root {
-    /* Fashion-forward elegant palette */
+    
     --background: 0 0% 98%;
     --foreground: 0 0% 8%;
 
@@ -16,7 +16,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 8%;
 
-    /* Elegant violet accent */
+    
     --primary: 270 50% 40%;
     --primary-foreground: 0 0% 100%;
     --primary-light: 270 60% 65%;
@@ -39,22 +39,22 @@
 
     --radius: 0.25rem;
 
-    /* Custom fashion tokens */
+    
     --fashion-cream: 40 20% 96%;
     --fashion-charcoal: 0 0% 15%;
     --fashion-violet: 270 50% 40%;
     --fashion-violet-light: 270 60% 70%;
     --fashion-gold: 45 80% 55%;
 
-    /* Typography */
+    
     --font-display: 'Cormorant Garamond', Georgia, serif;
     --font-body: 'Outfit', system-ui, sans-serif;
 
-    /* Animations */
+    
     --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     --transition-fast: all 0.2s ease-out;
 
-    /* Shadows */
+    
     --shadow-soft: 0 4px 20px -4px hsl(0 0% 0% / 0.08);
     --shadow-elegant: 0 20px 40px -15px hsl(270 50% 40% / 0.15);
 
