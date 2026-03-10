@@ -132,7 +132,7 @@
     font-family: var(--font-body);
   }
 
-  /* Elegant link underline animation */
+  
   .link-underline {
     @apply relative inline-block;
   }
@@ -146,7 +146,7 @@
     @apply scale-x-100 origin-bottom-left;
   }
 
-  /* Fashion button styles */
+  
   .btn-fashion {
     @apply inline-flex items-center justify-center px-8 py-3 text-sm font-medium tracking-widest uppercase transition-all duration-300;
   }
@@ -159,7 +159,7 @@
     @apply btn-fashion border border-foreground text-foreground hover:bg-foreground hover:text-background;
   }
 
-  /* Scroll arrow animation */
+  
   .scroll-arrow {
     @apply inline-block;
     animation: bounce-gentle 2s ease-in-out infinite;
@@ -170,7 +170,7 @@
     50% { transform: translateY(6px); }
   }
 
-  /* Image reveal animation */
+  
   .image-reveal {
     @apply overflow-hidden;
   }
@@ -179,7 +179,7 @@
     @apply transition-transform duration-700 ease-out hover:scale-105;
   }
 
-  /* Text slide up animation */
+  
   .slide-up {
     animation: slideUp 0.8s ease-out forwards;
   }
@@ -215,7 +215,7 @@
     opacity: 0;
   }
 
-  /* Fade in animation */
+  
   .fade-in {
     animation: fadeIn 1s ease-out forwards;
   }
@@ -225,7 +225,7 @@
     to { opacity: 1; }
   }
 
-  /* Horizontal line animation */
+  
   .line-expand {
     @apply h-[1px] bg-primary;
     animation: lineExpand 1.2s ease-out forwards;
@@ -237,7 +237,7 @@
     to { transform: scaleX(1); }
   }
 
-  /* Script text style */
+  
   .text-script {
     font-family: var(--font-display);
     @apply italic font-light;
